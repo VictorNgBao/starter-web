@@ -1,3 +1,4 @@
 
-oed hella leggings tacos authentic. Readymade normcore single-origin coffee, roof party typewriter intelligentsia butcher bitters cornhole kombucha pabst pour-over subway tile sriracha. Direct trade church-key etsy letterpress, heirloom before they sold out migas man braid everyday carry meditation gentrify organic unicorn franzen. Fingerstache fixie green juice meditation dreamcatcher shabby chic. Vexillologist chambray shabby chic, raw denim gastropub cray dreamcatcher fanny pack. Helvetica pork belly shabby chic four dollar toast, chambray coloring book waistcoat. Air plant franzen shabby chic synth, iPhone shoreditch 3 wolf moon shaman vape viral coloring book migas lyft tattooed.
+ng to understand about git rebase is that it solves the same problem as git merge. Both of these commands are designed to integrate changes from one branch into another branch—they just do it in very different ways.
 
+Consider what happens when you start working on a new feature in a dedicated branch, then another team member updates the master branch with new commits. This results in a forked history, which should be familiar to anyone who has used Git as a collaboration tool.
