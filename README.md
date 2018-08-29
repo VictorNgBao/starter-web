@@ -27,4 +27,5 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
+Apache 2.0
 2014 Git.trainning.
